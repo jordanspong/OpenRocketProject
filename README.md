@@ -1,5 +1,5 @@
 ## OpenRocketProject
-A repository for the Student Team for Alberta Rocketry Research led project for the software OpenRocket
+Currently, this ReadMe needs work hahaha
 
 (From Lochlin King, 'OpenRocket Module Project Outline')
 
